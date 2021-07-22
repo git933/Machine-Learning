@@ -1,2 +1,2 @@
 # Machine-Learning
-class review
+class review and practices
